@@ -1,0 +1,27 @@
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.exe
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.pdb
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses_İle_Çağırmak.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses_İle_Çağırmak.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.exe
+c:\users\everest\documents\visual studio 2013\Projects\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.pdb
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.exe.config
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.exe
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.pdb
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.exe
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.pdb
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.csprojResolveAssemblyReference.cache
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses_İle_Çağırmak.Form1.resources
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses_İle_Çağırmak.Properties.Resources.resources
+E:\C #DERSLER AYIRMALI\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.csproj.GenerateResource.Cache
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.exe.config
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.exe
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.pdb
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.exe
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\bin\Debug\Ses İle Çağırmak.pdb
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.csprojResolveAssemblyReference.cache
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses_İle_Çağırmak.Form1.resources
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses_İle_Çağırmak.Properties.Resources.resources
+E:\C #DERSLER Açıklamalı\Ses İle Çağırmak\Ses İle Çağırmak\obj\Debug\Ses İle Çağırmak.csproj.GenerateResource.Cache
